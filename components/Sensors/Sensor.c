@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include "esp_system.h"
@@ -31,4 +30,3 @@ void sensor_check_status(void)
     ESP_LOGI(TAG, "✅ Sensor status check from file: %s, line: %d", __FILE__, __LINE__);
     ESP_LOGI(TAG, "📈 All sensors operating normally");
 }
-```

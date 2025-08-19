@@ -4,6 +4,7 @@
 #include "esp_log.h"
 #include "sensor.h"
 
+
 static const char *TAG = "LAB7-1";
 
 void app_main(void)
